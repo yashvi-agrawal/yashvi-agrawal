@@ -27,23 +27,6 @@ Our team of four designed and fabricated a **custom PCB centered around an STM32
 
 ---
 
-### 🔧 ECE 362 Final Project
-
-**Embedded Systems Project | C, RP2350, UART, SPI, I2C**
-
-For my ECE 362 final project, I developed an embedded system using a microcontroller and multiple hardware peripherals with a team of four. The project involved developing firmware, interfacing with external devices, and debugging both hardware and software.
-
-**Key technologies:**
-- Embedded C
-- STM32F091 Microcontroller
-- GPIO, ADC, DMA, Timers, Interrupts
-- UART, SPI, I2C
-- Embedded firmware
-
-🔗 **[View the ECE 362 Final Project Repository](https://github.com/yashvi-agrawal/ECE-362-Project-2024)**
-
----
-
 ### 🖥️ RISC-V Processor
 
 **Processor Design | SystemVerilog, RISC-V, FPGA**
@@ -66,6 +49,23 @@ I also investigated the effects of **memory latency and caching on processor per
 
 ---
 
+### 🔧 ECE 362 Final Project
+
+**Embedded Systems Project | C, STM32F091, UART, SPI, I2C**
+
+For my ECE 362 final project, I developed an embedded system using a microcontroller and multiple hardware peripherals with a team of four. The project involved developing firmware, interfacing with external devices, and debugging both hardware and software.
+
+**Key technologies:**
+- Embedded C
+- STM32F091 Microcontroller
+- GPIO, ADC, DMA, Timers, Interrupts
+- UART, SPI, I2C
+- Embedded firmware
+
+🔗 **[View the ECE 362 Final Project Repository](https://github.com/yashvi-agrawal/ECE-362-Project-2024)**
+
+---
+
 ## Technical Interests
 
 - **Digital Design & RTL**
@@ -85,6 +85,22 @@ FPGA · STM32 · RP2350 · RISC-V · Digital Logic
 
 **Tools & Frameworks:**  
 Vivado · QuestaSim · PlatformIO · STM32CubeIDE · Git · Docker
+
+---
+
+## Experience
+
+### Medtronic | Software Engineering Intern (R&D Cloud)
+*12-week internship, June 2025 - August 2025*
+
+Worked with an intern and mentors to improve EMR-to-FHIR interoperability for **Medtronic CareLink**. We evaluated three approaches (a third-party converter accessed through an API, an AI-based conversion pipeline, and a custom Java converter) and compared them on accuracy, maintainability, and compliance with the latest FHIR standard. I then built and modernized the custom converter in **Java**, using **AWS** and **Docker** for deployment. The team tested my proof of concept internally, and it was later developed further and deployed for CareLink's 2M+ users after my internship.
+
+---
+
+### Purdue University | ECE 362 Teaching Assistant
+*August 2026 - May 2026*
+
+Helped teach embedded systems to **350+ students** using a custom **RP2350** board and course lab manuals. I supported students through **embedded C, GPIO, UART, SPI, I2C, DMA, PWM, and interrupts**, and debugged hardware and firmware issues in lab.
 
 ---
 
